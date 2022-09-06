@@ -1,7 +1,3 @@
-New Branch 
+This documentation describes how to use the Pavel robotic toothbrush.
 
-This documentation describes how to use the Karel automated (deleted a word here)
-
-Note that this toothbrush is totally safe to use for children, adults, pets, wildlife, and trees.  This line is to remain the same by master.
-
-The toothbrush requires your dominant hand. Changed this line.
+Note that this toothbrush is not safe to use for children, adults, or pets.
