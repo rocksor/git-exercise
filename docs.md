@@ -1,5 +1,9 @@
-This documentation describes how to use the Karel automated toothbrush.
+Branch added this line
+
+This documentation describes how to use the Karel automated (deleted a word here)
 
 Note that this toothbrush is totally safe to use for children, adults, pets, wildlife, and trees.
 
-Added this new line
+The toothbrush requires your dominant hand. Changed this line
+
+
